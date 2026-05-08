@@ -11,7 +11,7 @@ Desglose HTML
 
 El trabajo se desarrolla en "dev" vía git branch dev. Cada feature, dispondrá de su propia branch feature. 
 
-1. head: encabezado. 
+1 head: encabezado. 
     title: texto del encabezado.
     icon: icono del encabezado.
 
@@ -29,19 +29,4 @@ Reajuste de ambas features para ajustar head. Tras concluir, git add. Después, 
 
 - Después, llevamos el trabajo de feature a branch "dev" vía: git checkout dev y git merge feat.
 
-Una vez hemos mergeado todo el trabajo realizado en las branch features, aplicamos git push (previamente, repasaremos que todo esté ok).
-
-2. body
-    header
-        h1: Caperucita Roja: Una historia diferente.
-    main
-        image: Imagen "El bosque no es lo que parece"
-        h2: Subtítulo
-
-    Lo descrito en el paso 2 se aplica a cada una de las siguientes escenas de la naracción.
-
-    3. foot
-        navigation bar
-        icons
-    
-    Lo aquí descrito es susceptible de modificación.
+Una vez hemos mergeado todo el trabajo realizado en las branch features, aplicamos git push (previamente, repasaremos que todo esté correctamente).
