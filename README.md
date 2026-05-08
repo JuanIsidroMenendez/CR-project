@@ -16,25 +16,32 @@ El trabajo se desarrolla en "dev" vía git branch dev. Cada feature, dispondrá 
     icon: icono del encabezado.
 
 Ejemplo:
-Inicio desarrollo feature <tittle> en su branch. Tras concluir, git add. Después, git commit.
+
+Inicio desarrollo feature tittle en su branch. Tras concluir, git add. Después, git commit.
+
 - Después, llevamos el trabajo de feature a branch "dev" vía: git checkout dev y git merge feat.
-Inicio desarollo feature <icon> en una nueva branch. Tras concluir, git add. Después, git commit.
+
+Inicio desarollo feature icon en una nueva branch. Tras concluir, git add. Después, git commit.
+
 - Después, llevamos el trabajo de feature a branch "dev" vía: git checkout dev y git merge feat.
-Reajuste de ambas features para ajustar <head>. Tras concluir, git add. Después, git commit.
+
+Reajuste de ambas features para ajustar head. Tras concluir, git add. Después, git commit.
+
 - Después, llevamos el trabajo de feature a branch "dev" vía: git checkout dev y git merge feat.
+
 Una vez hemos mergeado todo el trabajo realizado en las branch features, aplicamos git push (previamente, repasaremos que todo esté ok).
 
-2. <body>
-    <header>
-        <h1>: Caperucita Roja: Una historia diferente.
-    <main>
-        <image>: Imagen "El bosque no es lo que parece"
-        <h2>: Subtítulo
+2. body
+    header
+        h1: Caperucita Roja: Una historia diferente.
+    main
+        image: Imagen "El bosque no es lo que parece"
+        h2: Subtítulo
 
     Lo descrito en el paso 2 se aplica a cada una de las siguientes escenas de la naracción.
 
-    3. <foot>
-        <navigation bar>
-        <icons>
+    3. foot
+        navigation bar
+        icons
     
     Lo aquí descrito es susceptible de modificación.
