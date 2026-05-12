@@ -32,3 +32,8 @@ Reajuste de ambas features para ajustar head. Tras concluir, git add. Después, 
 Una vez hemos mergeado todo el trabajo realizado en las branch features, aplicamos git push (previamente, repasaremos que todo esté correctamente).
 
 <img width="438" height="343" alt="Wireframe" src="https://github.com/user-attachments/assets/18e3f5ae-6699-471f-9466-40ad0c3acb25" />
+
+RESULTADO FINAL:
+
+<img width="960" height="540" alt="Captura resultado final" src="https://github.com/user-attachments/assets/dc93ff53-8274-4863-9624-68d9c8c575bf" />
+
